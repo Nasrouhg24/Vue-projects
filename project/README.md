@@ -18,7 +18,7 @@ Cette commande installe toutes les bibliothèques nécessaires pour faire foncti
 Ensuite, pour démarrer un serveur API simulé avec `json-server`, exécutez la commande suivante dans le terminal. Cela va démarrer un serveur local pour fournir des données à votre application Vue.js depuis le fichier `pieces-autos.json` :
 
 ```bash
-json-server --watch "C:\Users\nasre\PycharmProjects\S4\Developpement web\Vue\project1\src\pieces-autos.json"
+json-server --watch ".\project1\src\pieces-autos.json"
 ```
 
 Cela permettra à votre application Vue.js de récupérer des données depuis ce fichier JSON local à l'adresse `http://localhost:3000`.
