@@ -2,7 +2,7 @@
   <div id="app">
     <!-- Header -->
     <header>
-      <img src="/Developpement%20web/Vue/project1/src/images/logo-les-bonnes-pieces.png" alt="LOGO" />
+      <img src="https://static.vecteezy.com/system/resources/thumbnails/013/923/537/small_2x/red-car-vehicle-auto-detailing-logo-png.png" alt="LOGO" />
       <h1>Les Bonnes Pièces</h1>
     </header>
 
