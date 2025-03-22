@@ -1,0 +1,68 @@
+{
+  "jobs": [
+    {
+      "id": "3",
+      "titre": "Administ Systèmes et Réseaux",
+      "description": "Gestion et maintenance des infrastructures réseau et systèmes.",
+      "salaire": 4000,
+      "date_creation": "2025-03-15",
+      "detail": "En tant qu'administrateur systèmes et réseaux, vous serez responsable de la gestion et de la maintenance des infrastructures réseau et systèmes de l'entreprise. Vous devrez surveiller les performances du réseau, résoudre les problèmes de connectivité et assurer la sécurité des systèmes. Une connaissance approfondie des protocoles réseau, des systèmes d'exploitation serveur et des outils de surveillance est nécessaire pour ce poste. Vous serez également chargé de planifier et de mettre en œuvre des mises à niveau de l'infrastructure pour répondre aux besoins croissants de l'entreprise."
+    },
+    {
+      "id": "4",
+      "titre": "Analyste Cybersécurité",
+      "description": "Détection et prévention des menaces de sécurité informatique.",
+      "salaire": 4500,
+      "date_creation": "2025-03-14",
+      "detail": "En tant qu'analyste en cybersécurité, vous serez chargé de détecter et de prévenir les menaces de sécurité informatique. Vous devrez surveiller les systèmes pour détecter les activités suspectes, analyser les vulnérabilités et mettre en œuvre des mesures de protection. Une connaissance des outils de sécurité comme les pare-feu, les systèmes de détection d'intrusion et les logiciels antivirus est essentielle. Vous travaillerez en étroite collaboration avec les équipes informatiques pour renforcer la posture de sécurité de l'entreprise et répondre aux incidents de sécurité."
+    },
+    {
+      "id": "5",
+      "titre": "Chef de Projet IT",
+      "description": "Gestion de projets informatiques et coordination des équipes.",
+      "salaire": 5500,
+      "date_creation": "2025-03-13",
+      "detail": "En tant que chef de projet IT, vous serez responsable de la gestion de projets informatiques, de la planification à la livraison. Vous coordonnerez les équipes techniques, gérerez les budgets et les délais, et veillerez à ce que les projets soient livrés conformément aux spécifications. Une expérience en gestion de projet et une certification comme PMP ou Scrum Master seront un atout. Vous devrez également communiquer régulièrement avec les parties prenantes pour assurer la transparence et l'alignement des objectifs."
+    },
+    {
+      "id": "6",
+      "titre": "Développeur Mobile",
+      "description": "Création d'applications mobiles pour Android et iOS.",
+      "salaire": 4000,
+      "date_creation": "2025-03-12",
+      "detail": "En tant que développeur mobile, vous serez chargé de créer des applications mobiles pour les plateformes Android et iOS. Vous travaillerez sur la conception, le développement, les tests et la maintenance des applications, en veillant à ce qu'elles offrent une expérience utilisateur fluide et intuitive. Une maîtrise des langages de programmation comme Swift, Kotlin ou Java est essentielle pour ce rôle. Vous collaborerez également avec les équipes de design et de back-end pour intégrer des API et des services web dans vos applications."
+    },
+    {
+      "id": "7",
+      "titre": "Data Scientist",
+      "description": "Analyse de grandes quantités de données pour en extraire des informations utiles.",
+      "salaire": 6000,
+      "date_creation": "2025-03-11",
+      "detail": "En tant que data scientist, vous serez chargé d'analyser de grandes quantités de données pour en extraire des informations utiles. Vous utiliserez des techniques statistiques et des algorithmes d'apprentissage automatique pour identifier des tendances et des modèles dans les données. Une connaissance approfondie de Python, R, et des outils comme Pandas, NumPy, et Scikit-learn est essentielle pour ce poste. Vous devrez également présenter vos résultats de manière claire et concise aux parties prenantes pour les aider à prendre des décisions éclairées."
+    },
+    {
+      "id": "8",
+      "titre": "Administrateur Base de Données",
+      "description": "Gestion des bases de données et optimisation de leur performance.",
+      "salaire": 3800,
+      "date_creation": "2025-03-10",
+      "detail": "En tant qu'administrateur de bases de données, vous serez responsable de la gestion et de l'optimisation des bases de données de l'entreprise. Vous devrez assurer la sécurité, la disponibilité et la performance des bases de données, ainsi que résoudre les problèmes liés aux données. Une connaissance approfondie des systèmes de gestion de bases de données comme MySQL, PostgreSQL ou Oracle est nécessaire. Vous serez également chargé de planifier et de mettre en œuvre des stratégies de sauvegarde et de récupération des données."
+    },
+    {
+      "id": "9",
+      "titre": "Consultant en Transformation Digitale",
+      "description": "Accompagnement des entreprises dans leur transition numérique.",
+      "salaire": 5000,
+      "date_creation": "2025-03-09",
+      "detail": "En tant que consultant en transformation digitale, vous accompagnerez les entreprises dans leur transition numérique. Vous devrez analyser les processus existants, identifier les opportunités d'amélioration et proposer des solutions technologiques adaptées. Une connaissance approfondie des outils numériques et des méthodologies agiles est essentielle pour ce rôle. Vous travaillerez en étroite collaboration avec les équipes internes pour assurer une mise en œuvre réussie des projets de transformation."
+    },
+    {
+      "id": "10",
+      "titre": "Ingénieur Cloud Iboud",
+      "description": "Conception et gestion des infrastructures cloud.",
+      "salaire": 5500,
+      "date_creation": "2025-03-08",
+      "detail": "En tant qu'ingénieur cloud, vous serez responsable de la conception et de la gestion des infrastructures cloud de l'entreprise. Vous devrez configurer et maintenir des environnements cloud sécurisés et évolutifs, en utilisant des plateformes comme AWS, Azure ou Google Cloud. Une connaissance approfondie des services cloud, de la virtualisation et de la sécurité des données est essentielle pour ce poste. Vous serez également chargé d'optimiser les coûts et les performances des infrastructures cloud."
+    }
+  ]
+}
