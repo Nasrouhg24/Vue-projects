@@ -1,0 +1,34 @@
+{
+    "jobs": [
+        {
+            "titre": "Développeur Web",
+            "description": "Développement d'applications web en utilisant HTML, CSS et JavaScript.",
+            "salaire": "3500 EUR/mois",
+            "date_creation": "2025-03-17"
+        },
+        {
+            "titre": "Ingénieur en Intelligence Artificielle",
+            "description": "Conception et mise en œuvre d'algorithmes d'apprentissage automatique.",
+            "salaire": "5000 EUR/mois",
+            "date_creation": "2025-03-16"
+        },
+        {
+            "titre": "Administrateur Systèmes et Réseaux",
+            "description": "Gestion et maintenance des infrastructures réseau et systèmes.",
+            "salaire": "4000 EUR/mois",
+            "date_creation": "2025-03-15"
+        },
+        {
+            "titre": "Analyste Cybersécurité",
+            "description": "Détection et prévention des menaces de sécurité informatique.",
+            "salaire": "4500 EUR/mois",
+            "date_creation": "2025-03-14"
+        },
+        {
+            "titre": "Chef de Projet IT",
+            "description": "Gestion de projets informatiques et coordination des équipes.",
+            "salaire": "5500 EUR/mois",
+            "date_creation": "2025-03-13"
+        }
+    ]
+}
