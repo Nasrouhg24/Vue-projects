@@ -3,6 +3,8 @@
 ## Project setup
 ```
 npm install
+json-server --watch "./src/data/books.json" -p 3000
+
 ```
 
 ### Compiles and hot-reloads for development
